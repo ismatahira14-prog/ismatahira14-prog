@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Isma Tahira 👋
 
-<!--
-**ismatahira14-prog/ismatahira14-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Science student at Air University, Islamabad, with a BS in Mathematics from NUML.
+I enjoy turning data into insight using statistics, machine learning and deep learning.
 
-Here are some ideas to get you started:
+### 🔬 Currently working on
+- **MS Thesis:** Extending a hybrid Wavelet–Transformer–LightGBM model, optimized with Optuna (TPE), for global solar irradiance forecasting in solar electric-vehicle energy management
+- **Learning:** SQL for data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+**Languages:** Python, SQL (learning)  
+**Data & ML:** pandas, NumPy, scikit-learn, LightGBM, Optuna, Matplotlib, Seaborn  
+**Areas:** Time Series Forecasting, Deep Learning (Transformers), Wavelet Transforms, NLP, Data Visualization, Dashboards  
+**Tools:** VS Code, Google Colab, Jupyter, Git & GitHub
+
+### 📌 Experience
+- **Intern – Pakistan Bureau of Statistics (PBS):** Built an inflation dashboard in Python (VS Code), using GitHub as the data store, to track and visualize price trends
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/isma-tahira-603a78370/) · tahiraisma14@gmail.com
